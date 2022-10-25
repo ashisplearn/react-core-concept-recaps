@@ -1,0 +1,7 @@
+.single-post{
+    background-color: rgb(232, 224, 229);
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
